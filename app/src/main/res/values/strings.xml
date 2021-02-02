@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Recycleview</string>
+    <string name="strExample_recycle">Example Recycle</string>
+    <string name="strLinarList">Linear list</string>
+    <string name="strGridList">Grid list</string>
+    <string name="strStaggered_List">Staggered List</string>
+    <string name="strAddList">add list</string>
+    <string name="strUndo">Undo</string>
+    <string name="strWasDeleted">%s was deleted</string>
+    <string name="strWasFiled">%s was filed</string>
+    <string name="strFavorite">Favorite</string>
+    <string name="strImageOver">image_over</string>
+    <string name="strDetails">Details</string>
+    <string name="strDelete">Delete</string>
+    <string name="strLinearDescription">Um exemplo de lista emails com, reodenação de itens swipe para esquerda e direita.</string>
+    <string name="strVer">ver</string>
+    <string name="strLinearList">Linear List</string>
+    <string name="strStaggeredList">Staggered List</string>
+    <string name="strRecycleInToRecycle">Recycle in to Recycle</string>
+    <string name="strGridDescription">Exemplo de um grid para apresentação de serie, com click em casa item e no sub menu</string>
+    <string name="strRicycleIntoRecycleDscription">Exemplo de lista de filmes da netflix, rolagem horizontal e vertical</string>
+    <string name="strNested">Nested</string>
+    <string name="strStaggeredDescription">Exemplo de uma lista de imagens com dimensões diferentes</string>
+    <string name="strNestedDescription">Exemplo de recycleview aninhada uma, similar ao netflix</string>
+</resources>
