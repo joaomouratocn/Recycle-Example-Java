@@ -18,5 +18,4 @@ O metodo que informará a recycleView como o layout do itens serão apresentado 
 A viewHolder é uma class recebe os dados e passa para o layout do item, para assim serem apresentados.
 
 ## Adaptador
-O adaptador é que realmente realiza a ligação com a recycleView, ele cotem todas as configurações passadas,
-então ele é setado na recycleView
+O adaptador é que realmente realiza a ligação de todos os componentes, sendo setado na recycleView
